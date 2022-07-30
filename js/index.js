@@ -82,5 +82,5 @@ lightbtn.addEventListener("click", function () {
   document.documentElement.style.removeProperty("--sidebar", "#1f262ad1");
   document.documentElement.style.removeProperty("--button", "#004F95");
   document.documentElement.style.removeProperty("--text3", "#f8f8f8");
-  document.documentElement.style.removeProperty("--text3", "#4DF8FF");
+  document.documentElement.style.removeProperty("--text4", "#4DF8FF");
 });
